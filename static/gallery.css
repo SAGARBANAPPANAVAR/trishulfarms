@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: black;
+
+}
+
+.galle h1{
+  margin-top: 20px;
+  color:#14addc;
+  text-align: center;
+  padding-bottom: 60px;
+  letter-spacing: 10px;
+}
+
+.photo{
+  margin-left: 70px;
+}
+
+
+.photoimg {
+  margin: 25px;
+  width:350px;
+  height: 350px;
+  overflow: hidden;
+}
+
+.photoimg:hover{
+  transform: scale(1.12);
+}
